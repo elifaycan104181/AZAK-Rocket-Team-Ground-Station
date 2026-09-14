@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormGiris", "WinFormGiris\WinFormGiris.csproj", "{75960C2A-8CC4-4285-9223-2435CDC2BC1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{AC80F682-3D55-C8F8-4895-A4A9EDD49434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75960C2A-8CC4-4285-9223-2435CDC2BC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75960C2A-8CC4-4285-9223-2435CDC2BC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75960C2A-8CC4-4285-9223-2435CDC2BC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75960C2A-8CC4-4285-9223-2435CDC2BC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F368A71B-D9AA-448E-B807-35F950EB2A12}
+	EndGlobalSection
+EndGlobal
